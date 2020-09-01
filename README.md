@@ -1,2 +1,2 @@
-# Τoll system simulation
+# Τoll system simulation in C++
 
